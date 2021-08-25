@@ -21,7 +21,7 @@
 
 </head>
 
-<body style="background-image: url('https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); ">
+<body>
 
     <div class="container">
 
