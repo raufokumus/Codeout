@@ -1,0 +1,1 @@
+This website was made as a term project for the course. You can reach the live site via codeout.life.
